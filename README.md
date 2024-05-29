@@ -20,7 +20,7 @@ Ce projet est une application de Todo List réalisée avec React. Elle utilise T
 
 ## Auteurs
 
-- Victor - *Développeur principal* - [Votre Profil GitHub](https://github.com/votre-utilisateur)
+- Victor - *Développeur principal* - [Votre Profil GitHub]([https://github.com/votre-utilisateur](https://github.com/VictorLuigi27))
 
 ## Licence
 
