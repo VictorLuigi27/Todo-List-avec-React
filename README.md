@@ -17,11 +17,9 @@ Ce projet est une application de Todo List réalisée avec React. Elle utilise T
 - **className** : Pour appliquer des classes de style Tailwind CSS conditionnellement.
 
 
-
 ## Auteurs
 
-- Victor - *Développeur principal* - [Votre Profil GitHub]([https://github.com/votre-utilisateur](https://github.com/VictorLuigi27))
+- **Victor Luigi** - *Développeur principal* - [VictorLuigi27](https://github.com/VictorLuigi27)
 
-## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+N'hésitez pas à adapter ce modèle selon les spécificités de votre projet et les conventions de votre équipe ou communauté.
